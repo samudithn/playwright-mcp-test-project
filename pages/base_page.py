@@ -38,6 +38,6 @@ class BasePage:
         """Get text from an element"""
         return self.page.text_content(selector)
 
-    def is_element_visible(self, selector: str) -> bool:
-        """Check if element is visible"""
-        return self.page.is_visible(selector)
+    # def is_element_visible(self, selector: str) -> bool:
+    #    """Check if element is visible"""
+    #    return self.page.is_visible(selector)
