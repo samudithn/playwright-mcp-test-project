@@ -29,7 +29,7 @@ playwright-mcp-test-project/
 
 ## Prerequisites
 
-- Python 3.8 or higher
+- Python 3.7 or higher
 - Git
 - Virtual environment (created automatically via setup)
 
