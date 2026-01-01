@@ -1,4 +1,4 @@
-# SauceDemo Test Automation Framework (DEV)
+# SauceDemo Test Automation Framework (Dev)
 
 A comprehensive test automation framework using Python, Playwright, and pytest with Page Object Model (POM) design pattern for testing the SauceDemo e-commerce application (https://www.saucedemo.com).
 
