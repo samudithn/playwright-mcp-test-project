@@ -7,7 +7,7 @@ from config.config import VALID_USERNAME, VALID_PASSWORD
 
 
 class TestE2E:
-    """End-to-end test cases for complete user journey"""
+    """E2E test cases for complete user journey"""
 
     @pytest.fixture(autouse=True)
     def setup_login(self, page):
