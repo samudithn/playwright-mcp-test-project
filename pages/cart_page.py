@@ -4,7 +4,7 @@ from .base_page import BasePage
 class CartPage(BasePage):
     """Page object for SauceDemo cart page"""
 
-    # Locators
+    # Locator
     CART_ITEM = ".cart_item"
     CHECKOUT_BUTTON = "[data-test='checkout']"
     CONTINUE_SHOPPING_BUTTON = "[data-test='continue-shopping']"
